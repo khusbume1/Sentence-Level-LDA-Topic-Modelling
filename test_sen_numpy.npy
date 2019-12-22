@@ -1,0 +1,213 @@
+,sentence_id,report_id,sentences,sentence_topic
+0,234,11,History: CXR showed RLL mass.,0
+1,235,11,FINDINGS:   Lungs: There is a 3 cm mass with lobulated and spiculated contour at the superior segment of the RLL abutting and puckering the major fissure.,0
+2,236,11,A small calcified nodule at the anterior basal segment of the RLL is noted.,1
+3,237,11,The left lung is clear.,0
+4,238,11,No evidence of pleural effusion is seen.,0
+5,239,11,Mediastinum: There is no evidence of mediastinal mass or lymphadenopathy.,0
+6,240,11,Heart and great vessels are normal.,0
+7,241,11,No pericardial effusion is seen.,0
+8,242,11,"Thyroid glands: normal  Chest wall: unremarkable  Partial upper abdomen: unremarkable    IMPRESSION:  1.A 3 cm mass with lobulated contour and surrounding spiculation at the superior segment of the RLL, abutting and puckering the major fissure.",1
+9,243,11,"Findings are worrisome for primary lung cancer, and tissue diagnosis is warranted.",0
+10,244,11,2.A small calcified nodule at the anterior basal segment of the RLL is benign.,1
+11,245,11,3.No evidence of mediastinal lymphadenopathy,0
+12,246,12,   HISTORY: Detection of RUL nodule from prior chest film.,1
+13,247,12,COMPARISON: None.,0
+14,248,12,FINDINGS:   Tubes and lines: None.,0
+15,249,12,Lungs and airways: There is a 3.1x1.8 cm spiculated mass at apical segment of RUL which its  spicules abuts right major fissure and right apical pleura.,0
+16,250,12,A 0.3  cm lung cyst at superior segment of RUL is noted.,0
+17,251,12,The major airways are clear.,0
+18,252,12,Pleural cavity: The pleural spaces are clear.,0
+19,253,12,Heart and mediastinum: The visualized thyroid gland is normal.,0
+20,254,12,"There are several mediastinal nodes at right upper and lower paratracheal, paraaortic, subaortic and right hilar regions, ranging from 0.5  0.8 cm in short axis diameter.",1
+21,255,12,The heart is normal in size.,0
+22,256,12,There is no pericardial effusion.,0
+23,257,12,The aorta and pulmonary arteries are unremarkable.,0
+24,258,12,Soft tissues: Several calcifications at both breasts.,0
+25,259,12,Bony structures: Anterior wedge compression fracture of T11.,0
+26,260,12,Degenerative spine with osteopenia.,0
+27,261,12,No suspicious lytic or blastic lesion.,0
+28,262,12,Visualized portions of the upper abdomen: No adrenal mass.,0
+29,263,12,"Few bilateral renal cysts, ranging from 0.3  2.9 cm in diameter.",0
+30,264,12,"IMPRESSION:        A 3.1  cm spiculated mass which its spicules abut right major fissure and right apical pleura, likely represented primary lung cancer.",1
+31,265,12,No vascular or pleural invasion.,0
+32,266,12,No pleural effusion.,0
+33,267,12,No other pulmolnary nodules.,0
+34,268,12,"Several subcentimeter mediastinal nodes at right upper and lower paratracheal, paraaortic, subaortic and right hilar regions, ranging from 0.5  0.8 cm in short axis diameter, possibly reactive nodes.",1
+35,269,12,No evidence of hepatic or adrenal metastases.,0
+36,270,12,Anterior wedge compression fracture of T11.,0
+37,271,13,"    History: A 52  year  old male, known case CA lung s/p LUL lobectomy.",0
+38,272,13,Findings: No prior study for comparison                   The study reveals evidence of LUL lobectomy with soft tissue thickening at bronchial stump which may be post operative change.,0
+39,273,13,Minimal fibrosis is shown at right lung apex and posterior segment of LLL.,0
+40,274,13,A calcification is seen at medial segment of RLL.,0
+41,275,13,A 1.1  cm right hilar node is seen.,1
+42,276,13,Fat stranding is seen at thymic region.,0
+43,277,13,Heart and great vessels appear unremarkable.,0
+44,278,13,No pleural effusion is demonstrable.,0
+45,279,13,Visualized liver and both adrenal glands appear normal.,0
+46,280,13,No bony destruction is evaluated.,0
+47,281,13,IMP:    There is evidence of LUL lobectomy with soft tissue thickening at bronchial stump which may be post operative change.,0
+48,282,13,However follow up is suggested for excluded occult recurrence.,0
+49,283,13,Minimal fibrosis is shown at right lung apex and posterior segment of LLL.,0
+50,284,13,A calcified granuloma is seen at medial segment of RLL.,0
+51,285,13,A 1.1  cm right hilar node is seen.,1
+52,286,13,"Fat stranding is seen at thymic region, may be residual thymus.",0
+53,287,14,   HISTORY: Suspected RUL lesion from chest film   COMPARISON: None.,0
+54,288,14,FINDINGS:   Tubes and lines: None.,0
+55,289,14,"Lungs and airways: There is a 2.1x1.9x1.7cm lobulated nodule at posterior segment of RUL, abut RUL bronchus.",1
+56,290,14,(Limited evaluation of enhancement due to improper venous phase scan).,0
+57,291,14,No bronchial wall invasion is seen.,0
+58,292,14,Plate atelectasis at RLL and LLL as well as subsegmental atelectasis at medial aspect of LLL are seen.,0
+59,293,14,There is secretion or mucous at right posterior wall of the trachea (Im32se6).,0
+60,294,14,Pleural cavity: The pleural spaces are clear.,0
+61,295,14,Heart and mediastinum: The visualized thyroid gland is normal.,0
+62,296,14,"There are several small lymph nodes at right hilar, paratracheal , subcarinal regions, 0.4  0.7cm in short axis.",1
+63,297,14,The heart is normal in size.,0
+64,298,14,There is no pericardial effusion.,0
+65,299,14,"Liver and biliary: Multiple varying size hypodense lesions scattered in both lobes of liver are seen, measuring about 0.3  2.3cm in size.",1
+66,300,14,(Limited evaluation of enhanced pattern due to arterial phase scan).,0
+67,301,14,No biliary ductal dilatation.,0
+68,302,14,"Adrenal gland: A 0.9cmenhanced nodule at left adrenal gland, suspected adrenal adenoma.",1
+69,303,14,Unremarkable rests of visualized upper abdomen.,0
+70,304,14,Peritoneum/retroperitoneum: No free fluid or free air.,0
+71,305,14,Vessels: Unremarkable.,0
+72,306,14,Lymph nodes: No lymph node enlargement.,0
+73,307,14,Soft tissues: Unremarkable.,0
+74,308,14,Bony structures: No suspicious lytic or blastic lesion.,0
+75,309,14,"IMPRESSION:       A 2.1x1.9x1.7cm lobulated nodule at posterior segment of RUL, abut RUL bronchus, primary lung malignancy should be suspected, advice correlate with biopsy result.",1
+76,310,14,"Several mediastinal nodes, possibly to be either metastatic node nor reactive node from infection, please correlate with biopsy result of the major RUL nodule.",1
+77,311,14,"Multiple varying size hypodense lesions scattered in both lobes of liver, possibly to be cysts or cystic metastasis.",1
+78,312,14,"(Limited evaluation of enhanced pattern due to arterial phase scan), advice further investigation of liver.",0
+79,313,14,"A 0.9cmenhanced nodule at left adrenal gland, suspected adrenal adenoma.",1
+80,314,15,"    History: A 73  year  old female, known case CA lung s/p RUL wedge resection.",0
+81,315,15,"Findings: Prior study for comparison on 13/02/2013                    The study reveals evidence of RUL wedge resection with enhancing nodular soft tissue lesions at surgical site, measuring 0.8  2.1 cm.",1
+82,316,15,Loculated pleural effusion is seen at surgical site.,0
+83,317,15,Bronchiectasis and mucous plugging is seen at lateral segment of RML and inferior lingula segment of LUL.,0
+84,318,15,New group of air  space nodules and tree in bud pattern is demonstrable at posterior segment of LLL.,1
+85,319,15,No definite mediastinal lymphadenopathy is seen.,0
+86,320,15,Heart and great vessels appear unremarkable.,0
+87,321,15,Visualized liver and both adrenal glands appear normal.,0
+88,322,15,No bony destruction is evaluated.,0
+89,323,15,"IMP:    There is evidence of RUL wedge resection with enhancing nodular soft tissue lesions at surgical site, could be residual tumor.",0
+90,324,15,Loculated pleural effusion is seen at surgical site.,0
+91,325,15,Bronchiectasis and mucous plugging is seen at lateral segment of RML and inferior lingula segment of LUL.,0
+92,326,15,"New group of air  space nodules and tree in bud pattern is demonstrable at posterior segment of LLL, DDX are infection and metastasis.",1
+93,327,16,HISTORY:  A 44   year  old   patient with history of LUL mass post LUL lobectomy : BAC.,0
+94,328,16,CT is requested for FU study.,0
+95,329,16,"COMPARISON STUDY ; CT scan of chest study on 5/11/2012    FINDINGS                The study reveals  small volume of left hemithorax , 2nd due to post LUL lobectomy.",0
+96,330,16,Minimal hydropneumothorax is also noted at surgical bed of left upper hemithorax area.,0
+97,331,16,Mild compensatory hyperaeration of LLL is shown.,0
+98,332,16,"Minimal aspirate fluid in lower trachea lumen , plate atelectasis at left anterior basal lung and small lung cyst at apical right upper lung are noted.",0
+99,333,16,"No detectable pulmonary mass, nodule or infiltration in  lung window.",0
+100,334,16,Normal vascular distribution of both lungs is demonstrated.,0
+101,335,16,"No mediastinal, hilar, axillary and supraclavicular lymphadenopathy or mass is seen.",0
+102,336,16,No shifting of mediastinal structure or atelectasis  is noted.,0
+103,337,16,The heart and great vessels appear normal.,0
+104,338,16,No right  pleural  effusion or pericardial effusion is observed.,0
+105,339,16,"Both thyroid glands have normal size, homogeneous enhancement, no mass.",0
+106,340,16,"The visualized liver, spleen and adrenal glands are unremarkable.",0
+107,341,16,JOld fracture at posterior left 6th rib is noted.,0
+108,342,16,The rest of  bony structures are intact.,0
+109,343,16,IMPESSION:  No definite evidence of recurrent tumor or metastasis.,1
+110,344,17,    History: A 51  year  old female presents with RLL nodular lesion by CXR.,0
+111,345,17,"Findings: The study reveals an enhancing nodule with ground glass opacity component at superior segment of RLL, measuring 2.0 cm.",1
+112,346,17,Focal peribronchial consolidation is seen at posterior segment of LLL.,0
+113,347,17,"Multiple tiny ground glass nodules are detected at both lungs, measuring few millimeters to 0.6 cm, right more than left.",1
+114,348,17,No tree in bud pattern is detected.,0
+115,349,17,No definite mediastinal lymphadenopathy is seen.,0
+116,350,17,Heart and great vessels appear unremarkable.,0
+117,351,17,No pleural effusion is demonstrable.,0
+118,352,17,Multiple tiny thyroid nodules are seen.,1
+119,353,17,"Two low density lesions are detected at hepatic segment 4b and 6, measuring 0.9 cm and 0.8 cm, respectively.",1
+120,354,17,Visualized both adrenal glands appear normal.,0
+121,355,17,No bony destruction is evaluated.,0
+122,356,17,"IMP:    An enhancing nodule at superior segment of RLL and focal peribronchial consolidation at posterior segment of LLL, multifocal bronchoalveolar carcinoma is possibly.",1
+123,357,17,"Multiple tiny ground glass nodules are detected at both lungs, intrapulmonary metastasis cannot be excluded.",1
+124,358,17,Multiple tiny thyroid nodules are seen.,1
+125,359,17,Two low density lesions are detected at hepatic segment 4b and 6.,1
+126,360,17,Further investigation is suggested for excluded metastasis.,0
+127,361,18,History: CXR showed RUL nodule with history of smoking.,0
+128,362,18,"FINDINGS:   CHEST:   Lungs: A 2.4 cm spiculated mass at the RML, retracting the major fissure is noted.",1
+129,363,18,Minimal reticulonodular opacities of both apical lungs associated with fibrosis and bronchiloectasis is observed.,0
+130,364,18,A few subpleural cysts of both upper lobes are noted.,0
+131,365,18,No evidence of other abnormal opacity or pleural effusion is seen.,0
+132,366,18,Mediastinum: There is no evidence of mediastinal mass or lymphadenopathy.,0
+133,367,18,Heart and great vessels show atherosclerotic change of the aorta.,0
+134,368,18,No pericardial effusion is seen.,0
+135,369,18,Thyroid glands: normal  Chest wall: unremarkable  Partial upper abdomen: A few small liver cysts are noted.,0
+136,370,18,"IMPRESSION:  1.A 2.4 cm spiculated mass at the RML, retracting the major fissure is worrisome for primary lung cancer.",1
+137,371,18,2.Minimal reticulonodular opacities of both apical lungs associated with fibrosis and bronchiloectasis are probably chronic lung changes from previous infection/inflammation.,0
+138,372,18,3.A few subpleural cysts of both upper lobes  4.No evidence of lymphadenopathy or adrenal nodule,0
+139,373,19,    Indication: FU nodule at RUL      Findings:  Comparison with CT chest dated 20  06  2013  Mediastinum  There is no significant size mediastinal LN.,0
+140,374,19,Calcified atherosclerosis aorta is seen.,0
+141,375,19,Normal heart size with mild calcified mitral valve annulus is noted.,0
+142,376,19,No pericardial effusion is visualized.,0
+143,377,19,Esophagus is not dilated.,0
+144,378,19,"Lung and airway  There is interval increased in size of the ground glass nodule (GGN) at anterior segment of RUL, measured from 10x10mm to 12x12 mm in size.",1
+145,379,19,"Bronchioloalveolar cell CA (BAC) is worrisome, tissue diagnosis should be considered.",0
+146,380,19,A 5 mm GGN at apical segment of RUL (Im 24) is unchanged.,0
+147,381,19,"Other two GGN at anterior basal segment of RLL are increased in size, measured  4.2mm and 3.9 mm in size (Im 109 & 115).",1
+148,382,19,There is suspicious for another GGB at anterior basal segment of RLL (Im 95).,1
+149,383,19,A 1.7 mm nodule at anterior basal segment of LLL and a 2.5  mm nodule at RML (Im 76) are  too small to characterize (Im 102).,1
+150,384,19,A small nodule at lingular LUL (Im 73) is likely endobronchial granuloma.,1
+151,385,19,"Other two endobronchial lesions are seen at superior segment of LLL (Im 75, 85), likely mucous plug or granuloma.",1
+152,386,19,Localized mild bronchiectasis is seen at inferior lingular lobe and medial segment of RML.,0
+153,387,19,"Endobronchial mucous plugs VS granuloma at RML are seen, associated with improvement of the consolidation.",0
+154,388,19,There is suspicious for a small pulmonary AVM at peripheral part of anterior basal segment of LLL.,0
+155,389,19,"The rest of lung parenchyma shows no centrilobular nodule, tree  in  buds, bronchiectasis.",0
+156,390,19,Neither endobronchial lesion nor pleural effusion is seen.,0
+157,391,19,"Upper abdomen  A gastric diverticulum is noted, originating from posterior wall of gastric body.",0
+158,392,19,Note patulous esophagus.,0
+159,393,19,No adrenal mass is seen.,0
+160,394,19,No enlarged LN or ascites is seen.,0
+161,395,19,No destructive bony lesion is visualized.,0
+162,396,19,OPINIONS:  1.,0
+163,397,19,"Interval increase in size of GGN at anterior segment of RUL, BAC is considered.",0
+164,398,19,Tissue diagnosis is suggested.,0
+165,399,19,2,0
+166,400,19,"Interval growth and increased in numbers of the three GGN at apical segment of RUL, anterior basal segment of RLL and suspicious another lesion in the same segment of RLL, lung  to  lung metastasis should be R/O.",0
+167,401,19,3,0
+168,402,19,"Two small nodules at anterior basal segment od LLL and RML, TSTC.",1
+169,403,19,FU is suggested.,0
+170,404,19,4,0
+171,405,19,"Tubular bronchiectasis at medial segment of RML and inferior lingular lobe, with endobronchial mucous plugs VS granulomas.",0
+172,406,19,5,0
+173,407,19,Improvement of the consolidation at RML.,0
+174,408,19,6,0
+175,409,19,No evidence of significant size mediastinal LN.,0
+176,410,19,"Otherwise, as described.",0
+177,411,20,"History: Asymptomatic, check up showed lung mass       FINDINGS:   CHEST:   Lungs:  There is a 2.4 cm mixed solid and ground  glass nodule with small central cavitation at the superior segment of the RLL, showing retraction of the fissure.",1
+178,412,20,A few small subpleural cysts of both upper lobes are observed.,0
+179,413,20,No evidence of other abnormal opacity or pleural effusion is seen.,0
+180,414,20,Mediastinum: There is no evidence of mediastinal mass or lymphadenopathy.,0
+181,415,20,Heart and great vessels are normal.,0
+182,416,20,No pericardial effusion is seen.,0
+183,417,20,Thyroid glands: normal  Chest wall: unremarkable  Partial upper abdomen: A few liver cysts are observed.,0
+184,418,20,"IMPRESSION:  1.A 2.4 cm mixed solid and ground  glass nodule with small central cavitation at the superior segment of the RLL, showing retraction of the fissure.",1
+185,419,20,"Findings are worrisome for malignant nodule, and tissue diagnosis may be warranted.",1
+186,420,20,2.A few small subpleural cysts of both upper lobes  3.A few liver cysts,0
+187,421,21,   HISTORY: pulmonary nodule    There is no immediate complication during the procedure.,0
+188,422,21,COMPARISON: None.,0
+189,423,21,FINDINGS:   Tubes and lines: None.,0
+190,424,21,"Lungs and airways: There is an irregular nodule with internal bubbly lucency at superior segment of the LLL, measuring 1.3x1.1 cm in size.",1
+191,425,21,"Another small nodule at lingular segment of the LUL attaches to the left cardiac border (Im 72, Se4), measuring 1.3x0.8 cm in size.",1
+192,426,21,"A 0.4  cm subpleural nodule at superior segment of the RLL is noted (Im 67, Se4).",1
+193,427,21,"Multiple ground glass and part  solid nodules scatter at both lungs, ranging from 0.4  1.5 cm in size.",1
+194,428,21,The largest one at posterior segment of the RUL contains 6 mm solid component.,1
+195,429,21,The major airways are clear.,0
+196,430,21,Pleural cavity: The pleural spaces are clear.,0
+197,431,21,"Heart and mediastinum: A few bilateral thyroid nodules are seen, ranging from 0.7  1.1 cm in size.",1
+198,432,21,"There are multiple mediastinal nodes at paratracheal, subcarinal and subcarinal regions, ranging up to 0.7 cm in short axis.",1
+199,433,21,The heart is borderline size with calcified coronary arteries.,0
+200,434,21,There is no pericardial effusion.,0
+201,435,21,Soft tissues: Unremarkable.,0
+202,436,21,Bony structures: No suspicious lytic or blastic lesion.,0
+203,437,21,Visualized portions of the upper abdomen: A 0.3  cm gallstone is seen.,0
+204,438,21,There is a 1.0  cm mural nodule at the gallbladder fundus.,1
+205,439,21,Few small left renal cysts are noted.,0
+206,440,21,"IMPRESSION:       An irregular dominant nodule with internal bubbly lucency at the LLL, lung cancer (adenocarcinoma) should be the 1st considered until prove otherwise.",1
+207,441,21,Biopsy should be recommended.,0
+208,442,21,Multiple ground glass & part  solid nodules at both lungs; advised follow up  According to the Fleischner's society guideline for ...,1
+209,443,21,Dominant nodule(s) with part  solid or solid component; initial follow up CT at 3 month to confirm persistence.,1
+210,444,21,"If persistent, biopsy or surgical resection is recommended, especially for lesions with >5 mm solid component.",1
+211,445,21,"Another solid nodules at the RLL & LUL, indetermine      A gallstone and adenomyomatosis of the gallbladder",1
