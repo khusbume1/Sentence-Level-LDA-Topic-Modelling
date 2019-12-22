@@ -13,4 +13,9 @@ The vectorized text has been passed through Latent Diritchlet Allocation (LDA) f
 
 Unlike other LDA tutorials, the unit of this work is sentence instead of documents. Instead of classifying documents into topics, here we classify sentences into topics.
 
-Since, this is a binary classification, we have used three machine learning models and one of them is logistic regression. The other two models are "Random Forest" and "Decision Trees"
+After we get complex LDA vectors, we then classify them into topics using machine learning classification algorithms. 
+For this purpose, we have used three classification algorithms: 
+1. Logistic Regression
+2. Random Forest
+3. Decision Trees
+
